@@ -1,4 +1,11 @@
 # Game_on_unity
+#!!!ЕСЛИ В ГИТХАБЕ РАБОТАЕТ НЕККОРЕКТНО СКАЧАЙТЕ АРХИВОМ ПО ССЫЛКЕ!!!
+
+(https://drive.google.com/file/d/1a0G9z53jDZ1MlT6KebtZmAsf-8zNinc8/view?usp=sharing)
+
+!!!IF IT WORKS INCORRECTLY IN GITHAB, DOWNLOAD THE ARCHIVE FROM THE LINK!!!
+
+
 Игра на движке Юнити(С#) в самой ранней стадии разработки, игра постороенна на бесплатных ассетах/
 
 
